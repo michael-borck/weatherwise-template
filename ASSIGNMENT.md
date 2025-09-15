@@ -348,7 +348,7 @@ Your submission should include:
 
 1. **GitHub Repository**
    - All project files must be uploaded to your GitHub repository
-   - Invite your instructor to your repository (GitHub username: michael-borck)
+   - Invite your instructor to your repository
    - Your repository should include:
      - Google Colab notebook (.ipynb file)
      - README.md with project overview and setup instructions
@@ -412,7 +412,7 @@ By completing the core requirements, you'll demonstrate solid mastery of the cou
 
 ## Due Date
 
-Submit your completed assignment by 23:59 on Friday 23rd May 2025.
+See Assessment Schedule
 
 ## Notes on Academic Integrity
 
