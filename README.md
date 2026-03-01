@@ -1,5 +1,9 @@
 # 🌦️ WeatherWise Template
 
+<!-- BADGES:START -->
+[![ai](https://img.shields.io/badge/-ai-ff6f00?style=flat-square)](https://github.com/topics/ai) [![data-visualization](https://img.shields.io/badge/-data--visualization-blue?style=flat-square)](https://github.com/topics/data-visualization) [![jupyter-notebook](https://img.shields.io/badge/-jupyter--notebook-blue?style=flat-square)](https://github.com/topics/jupyter-notebook) [![python](https://img.shields.io/badge/-python-3776ab?style=flat-square)](https://github.com/topics/python) [![starter-kit](https://img.shields.io/badge/-starter--kit-blue?style=flat-square)](https://github.com/topics/starter-kit) [![template](https://img.shields.io/badge/-template-blue?style=flat-square)](https://github.com/topics/template) [![weather](https://img.shields.io/badge/-weather-blue?style=flat-square)](https://github.com/topics/weather) [![curtin](https://img.shields.io/badge/-curtin-f57c00?style=flat-square)](https://github.com/topics/curtin) [![ai-assisted-development](https://img.shields.io/badge/-ai--assisted--development-blue?style=flat-square)](https://github.com/topics/ai-assisted-development) [![data-analysis](https://img.shields.io/badge/-data--analysis-blue?style=flat-square)](https://github.com/topics/data-analysis)
+<!-- BADGES:END -->
+
 Welcome to the **WeatherWise Assignment Starter Template**! This repository helps you kickstart your project by combining Python, weather APIs, data visualisation, and AI-assisted development. 🤖📊
 
 ![Build With AI](https://img.shields.io/badge/Built_with-AI-blueviolet?logo=openai)
